@@ -8,4 +8,4 @@
 1. Tkinter
 
 ## Api Used:-
-1. Removee.bg Api
+1. Remove.bg Api
